@@ -12,7 +12,7 @@ This project explores **Sentiment Analysis** using **Long Short-Term Memory (LST
 ## Usage
 Run the Python script:
 ```sh
-python sentiment_analysis.py
+python nlp_tutorial.py
 ```
 For detailed explanations, refer to the tutorial report included in this repository.
 
