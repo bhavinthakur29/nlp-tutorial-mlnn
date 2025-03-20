@@ -20,7 +20,6 @@ For detailed explanations, refer to the tutorial report included in this reposit
 Bhavin Thakur (Student ID: 23079699)
 
 ## References
-## References
 - Goldberg, Y. (2017). **Neural Network Methods for Natural Language Processing**. *Synthesis Lectures on Human Language Technologies*. [Link](https://doi.org/10.2200/S00762ED1V01Y201703HLT037)
 - Hochreiter, S., & Schmidhuber, J. (1997). **Long Short-Term Memory**. *Neural Computation, 9(8), 1735-1780*. [Link](https://doi.org/10.1162/neco.1997.9.8.1735)
 - Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**. *arXiv preprint*. [Link](https://arxiv.org/abs/1810.04805)
